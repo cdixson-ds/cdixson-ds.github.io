@@ -1,6 +1,6 @@
 title: Crystal Dixson
 logo: /assets/img/logo.png
 description: Hello, welcome to my portfolio.
-show_downloads: true
+show_downloads: false
 google_analytics: G-V6JHG6DXRN
 theme: jekyll-theme-minimal
