@@ -1,9 +1,10 @@
 title: Crystal Dixson
 logo: /assets/img/logo.png
-description: >
-Hello, welcome to my portfolio.
-<br><br>
-<a href="https://www.linkedin.com/in/crystaldixson/">View My LinkedIn Profile</a>
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Hello, welcome to my portfolio.
+  <br><br>
+  <a href="https://www.linkedin.com/in/crystaldixson/">View My LinkedIn Profile</a> 
+
 show_downloads: false
 google_analytics: G-V6JHG6DXRN
 theme: jekyll-theme-minimal
