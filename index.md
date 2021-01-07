@@ -11,7 +11,7 @@ layout: default
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Finding Instances of Police Brutality](./_posts/2020-09-25-Learning-About-Neural-Networks.md)
+[Finding Instances of Police Brutality](./_posts/2020-11-18-Finding-Instances-of-Police-Use-of-Force.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
