@@ -7,7 +7,7 @@ layout: default
 
 ### Category Name 1 
 
-[Movie Review Sentiment Analysis](./_posts/2020-03-01-Movie-Review-Sentiment-Analysis.html)
+[Movie Review Sentiment Analysis](./_posts/2020-03-01-Movie-Review-Sentiment-Analysis.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
