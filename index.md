@@ -11,10 +11,10 @@ layout: default
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Finding Instances of Police Brutality](/pdf/sample_presentation.pdf)
+[Finding Instances of Police Brutality](./_posts/2020-09-25-Learning-About-Neural-Networks.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Neural Networks from Scratch](http://example.com/)
+[Neural Networks from Scratch](./_posts/2020-09-25-Learning-About-Neural-Networks.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
