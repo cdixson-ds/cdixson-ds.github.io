@@ -7,14 +7,14 @@ layout: default
 
 ### Category Name 1 
 
-[Movie Review Sentiment Analysis](https://github.com/cdixson-ds/cdixson-ds.github.io/blob/master/2020-03-01-Movie-Review-Sentiment-Analysis.md)
+[Movie Review Sentiment Analysis](./_posts/2020-03-01-Movie-Review-Sentiment-Analysis.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Finding Instances of Police Brutality](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Neural Networks from Scratch](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
