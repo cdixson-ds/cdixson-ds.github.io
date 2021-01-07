@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Exploring available data and collaborating with a cross-functional team
 
 This month I worked with a team of developers to improve a web application which aims to highlight incidents of police use of force within the United States. These instances were then used to create a visualization on a map to show where these instances have occured. This project was proposed by Human Rights First, a US-Based human rights organization. HRF strives to influence the US Government and private companies to respect human rights and the rule of law, and seek accountability and reform where they fail. The goal of this app is to make the data easily accessible to journalists and other interested parties who are able to document and spread awareness about these incidents. 
