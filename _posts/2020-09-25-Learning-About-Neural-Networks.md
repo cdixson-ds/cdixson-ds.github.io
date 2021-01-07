@@ -3,7 +3,7 @@ layout: default
 title: Learning how to implement a Neural Network from Scratch
 ---
 
-## I wanted to learn more about what goes on under the hood. Learning to code a neural network with base python and numpy
+## Learning to code a neural network with base python and numpy
 
 When I first started learning about neural networks what really stood out was how much I really didn’t understand. That is pretty much how I feel whenever I embark on something new, but it was even more apparent for this topic because a lot of the details had been abstracted away. Keras is an open-source neural-network library. Tensorflow is another library released by Google which is often used alongside Keras, as Keras has the ability to work on top of Tensorflow. Using these tools, a very simple neural network can be implemented within about five or six lines of code, but there is a lot going on behind the scenes that I want to have a better understanding of.
 
