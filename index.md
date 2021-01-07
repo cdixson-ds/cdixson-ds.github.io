@@ -7,7 +7,7 @@ layout: default
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Movie Review Sentiment Analysis](https://github.com/cdixson-ds/cdixson-ds.github.io/blob/master/2020-03-01-Movie-Review-Sentiment-Analysis.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
