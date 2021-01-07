@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Hello, Welcome to my Portfolio
+## Portfolio
 ---
 
 ### Category Name 1 
