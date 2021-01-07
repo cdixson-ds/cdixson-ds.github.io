@@ -1,7 +1,8 @@
-layout: page
+---
+layout: default
 title: Learning how to implement a Neural Network from Scratch
 subtitle: I wanted to learn more about what goes on under the hood. Learning to code a neural network with base python and numpy
-
+---
 
 ## Why do I want to do this?
 
