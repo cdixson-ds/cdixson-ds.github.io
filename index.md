@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Portfolio
+## Portfolio="
 ---
 
 ### Category Name 1 
 
 [Movie Review Sentiment Analysis](./_posts/2020-03-01-Movie-Review-Sentiment-Analysis.md)
-<img src="https://sentiment-movies-reviews.herokuapp.com/assets/wordcloud.png"/>
+<img src="https://sentiment-movies-reviews.herokuapp.com/assets/wordcloud.png" width="100" height="75"/>
 
 ---
 [Finding Instances of Police Brutality](./_posts/2020-11-18-Finding-Instances-of-Police-Use-of-Force.md)
