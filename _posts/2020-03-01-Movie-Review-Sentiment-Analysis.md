@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## For this project I deployed a web based app using a logistic regression model to predict the sentiment of a movie review
 
 My app was deployed using [Plotly](https://plotly.com/dash/) and [Heroku](https://www.heroku.com/home) and can be found here: [Movie Review Sentiment Analysis](https://sentiment-movies-reviews.herokuapp.com/)
